@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "The Master",
+      "occupation": "writer",
+      "weapon": "Books",
+      "cartoon": false
+    },
+    {
+      "id": 2,
+      "name": "Margarita",
+      "occupation": "loves",
+      "weapon": "sorcery",
+      "cartoon": false
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": {
+        "name": "Harry",
+        "occupation": "Potter",
+        "weapon": "Wand",
+        "cartoon": false
+      },
+      "cartoon": false,
+      "id": 4
+    },
+    {
+      "name": {
+        "name": "Harry",
+        "occupation": "Potter",
+        "weapon": "Wand",
+        "cartoon": false
+      },
+      "cartoon": false,
+      "id": 5
+    },
+    {
+      "name": {
+        "name": "Harry",
+        "occupation": "Potter",
+        "weapon": "wand",
+        "cartoon": false
+      },
+      "cartoon": false,
+      "id": 6
+    },
+    {
+      "name": {
+        "name": "Willy",
+        "occupation": "Coyote",
+        "weapon": "ACME",
+        "cartoon": true
+      },
+      "cartoon": false,
+      "id": 7
+    },
+    {
+      "name": {
+        "name": "she",
+        "occupation": "girl",
+        "weapon": "looks",
+        "cartoon": false
+      },
+      "cartoon": false,
+      "id": 8
+    },
+    {
+      "name": {
+        "name": "Bart",
+        "occupation": "student",
+        "weapon": "unintelligence",
+        "cartoon": true
+      },
+      "cartoon": false,
+      "id": 9
+    }
+  ]
+}
